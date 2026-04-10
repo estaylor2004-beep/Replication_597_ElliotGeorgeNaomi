@@ -50,3 +50,4 @@ rsconnect/
 
 # Stata data files
 .dta
+.csv

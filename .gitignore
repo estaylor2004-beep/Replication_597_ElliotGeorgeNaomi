@@ -49,6 +49,6 @@ po/*~
 rsconnect/
 
 # Stata data files
-.dta
-.csv
+*.dta
+*.csv
 .DS_Store

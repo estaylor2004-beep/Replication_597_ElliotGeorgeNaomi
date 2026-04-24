@@ -46,6 +46,7 @@ local layout_macro_xsize 9          // Figure width
 local layout_macro_ysize 11.7       // Figure height
 local layout_macro_scale 1          // Scale factor
 
+/*
 * Society variables layout
 local layout_society_name "society"
 local layout_society_depvars deaths lpop medial judicial electoral institutions
@@ -379,6 +380,7 @@ local panel_28_specs casroles castrd                                            
 local panel_28_layouts macro society trade                                      // All variable layouts
 local panel_28_horizons 8                                                       // 8-year horizon
 local panel_28_estopt standard                                                  // Standard estimation options
+*/
 
 * ==============================================================================
 * ESTIMATION OPTIONS
